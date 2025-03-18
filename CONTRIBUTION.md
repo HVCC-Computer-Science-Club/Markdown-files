@@ -7,7 +7,7 @@ Thank you for your interest in contributing to **HVCC Computer Science Club**! �
 ## 🛠 How to Contribute
 
 ### 1️⃣ Find a Project to Work On  
-- Browse our **[Project Board](https://github.com/orgs/HVCC-Computer-Science-Club/projects)** (link to GitHub project board).  
+- Browse our **[Project Board](https://github.com/orgs/HVCC-Computer-Science-Club/projects)**).  
 - Check the **Issues** tab in our repositories for tasks labeled `good first issue` or `help wanted`.  
 - Have an idea for a new project? Feel free to suggest it in a **GitHub Discussion** or our **[Discord](https://discord.gg/BtcTud6F)**.  
 
